@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
 
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #167ec3;
+  --primary-color: #32c325;
+  --primary-color-dark: #32c325;
   --accent-color: #FFF8F0;
 }
 
@@ -124,6 +124,7 @@ h1 {
   justify-content: center;
   color: var(--accent-color);
   letter-spacing: 1px;
+  white-space: nowrap;
 }
 
 .title-section {
